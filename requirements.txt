@@ -1,0 +1,6 @@
+
+   ## Requirements
+   - Apache Beam
+   - Kafka
+   - SQLite (for SQL database)
+   - Python
